@@ -734,5 +734,13 @@
     "symbol": "polyBUNNY",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4C16f69302CcB511c5Fac682c7626B9eF0Dc126a/logo.png"
+  },
+  {
+    "name": "Morpheus Infrastructure Token (PoS)",
+    "address": "0x31042A4E66eDa0d12143ffc8cC1552D611dA4cbA",
+    "symbol": "MITx",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2709.png"
   }
 ]
